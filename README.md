@@ -1,1 +1,1 @@
-# odin-recipes
+a very simple html only project as an exercise for my newly learned html knowledge
