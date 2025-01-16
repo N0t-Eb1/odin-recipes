@@ -27,7 +27,11 @@ h1 {
 
 img {
     display: block;
+    width: 500px;
+    box-shadow: 5px 10px #3C355E;
     margin: 0 auto 120px;
+    padding: 20px;
+    background-color: #4B4376;
 }
 
 div.content {
