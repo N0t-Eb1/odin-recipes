@@ -37,6 +37,7 @@ a {
     margin: 20px;
     padding: 10px;
     background-color: #E8BCB9;
-    border: 2px dashed #872341;
+    border: 2px dashed #E8BCB9;
+    border-radius: 20px;
     text-decoration: none;
 }
