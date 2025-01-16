@@ -53,12 +53,14 @@ p {
 p, ul, ol {
     margin-bottom: 100px;
     font-size: 25px;
+    line-height: 1.3em;
 }
 
 ul {
     list-style: none;
     border-left: 8px solid orange;
-    padding-left: 16px
+    padding-left: 16px;
+    line-height: 2.5em;
 }
 
 ol {
