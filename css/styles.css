@@ -30,14 +30,15 @@ ul {
     margin: 120px 0 40px;
 }
 
-a {
+a:link {
     font-size: 35px;
     display: inline-block;
     width: 400px;
     margin: 20px;
     padding: 10px;
     background-color: #E8BCB9;
-    border: 2px dashed #E8BCB9;
+    border: 2px solid #E8BCB9;
+    color: #4B4376;
     border-radius: 20px;
     text-decoration: none;
 }
