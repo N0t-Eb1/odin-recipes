@@ -55,14 +55,13 @@ p {
 }
 
 p, ul, ol {
-    margin-bottom: 100px;
+    margin: 0 30px 100px;
     font-size: 25px;
     line-height: 1.3em;
 }
 
 ul {
-    list-style: none;
-    border-left: 8px solid orange;
+    list-style: inside;
     padding-left: 16px;
     line-height: 2.5em;
 }
@@ -74,7 +73,6 @@ ol {
 }
 
 ol li {
-    border-left: 7px solid #B2A3B5;
     margin: 30px 30px 60px;
     padding-left: 7px;
 }
